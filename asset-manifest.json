@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sabores-do-mundo/static/css/main.c474f288.chunk.css",
+    "main.css": "/sabores-do-mundo/static/css/main.81413601.chunk.css",
     "main.js": "/sabores-do-mundo/static/js/main.1cdf10ce.chunk.js",
     "main.js.map": "/sabores-do-mundo/static/js/main.1cdf10ce.chunk.js.map",
     "runtime-main.js": "/sabores-do-mundo/static/js/runtime-main.1b8e7d83.js",
@@ -9,10 +9,10 @@
     "static/js/2.099089f1.chunk.js": "/sabores-do-mundo/static/js/2.099089f1.chunk.js",
     "static/js/2.099089f1.chunk.js.map": "/sabores-do-mundo/static/js/2.099089f1.chunk.js.map",
     "index.html": "/sabores-do-mundo/index.html",
-    "precache-manifest.6575f7980f6bbb15d581ddd5c1118029.js": "/sabores-do-mundo/precache-manifest.6575f7980f6bbb15d581ddd5c1118029.js",
+    "precache-manifest.3344ad262cce14e4b8ba7a68f6a9de0e.js": "/sabores-do-mundo/precache-manifest.3344ad262cce14e4b8ba7a68f6a9de0e.js",
     "service-worker.js": "/sabores-do-mundo/service-worker.js",
     "static/css/2.95258f03.chunk.css.map": "/sabores-do-mundo/static/css/2.95258f03.chunk.css.map",
-    "static/css/main.c474f288.chunk.css.map": "/sabores-do-mundo/static/css/main.c474f288.chunk.css.map",
+    "static/css/main.81413601.chunk.css.map": "/sabores-do-mundo/static/css/main.81413601.chunk.css.map",
     "static/js/2.099089f1.chunk.js.LICENSE.txt": "/sabores-do-mundo/static/js/2.099089f1.chunk.js.LICENSE.txt",
     "static/media/blackHeartIcon.svg": "/sabores-do-mundo/static/media/blackHeartIcon.b8913346.svg",
     "static/media/drinkIcon.svg": "/sabores-do-mundo/static/media/drinkIcon.f87c47c3.svg",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.1b8e7d83.js",
     "static/css/2.95258f03.chunk.css",
     "static/js/2.099089f1.chunk.js",
-    "static/css/main.c474f288.chunk.css",
+    "static/css/main.81413601.chunk.css",
     "static/js/main.1cdf10ce.chunk.js"
   ]
 }
