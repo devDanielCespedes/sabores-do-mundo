@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sabores-do-mundo/static/css/main.fdacea04.chunk.css",
-    "main.js": "/sabores-do-mundo/static/js/main.fa16c225.chunk.js",
-    "main.js.map": "/sabores-do-mundo/static/js/main.fa16c225.chunk.js.map",
+    "main.js": "/sabores-do-mundo/static/js/main.3453f511.chunk.js",
+    "main.js.map": "/sabores-do-mundo/static/js/main.3453f511.chunk.js.map",
     "runtime-main.js": "/sabores-do-mundo/static/js/runtime-main.1b8e7d83.js",
     "runtime-main.js.map": "/sabores-do-mundo/static/js/runtime-main.1b8e7d83.js.map",
     "static/css/2.95258f03.chunk.css": "/sabores-do-mundo/static/css/2.95258f03.chunk.css",
     "static/js/2.4b8181cf.chunk.js": "/sabores-do-mundo/static/js/2.4b8181cf.chunk.js",
     "static/js/2.4b8181cf.chunk.js.map": "/sabores-do-mundo/static/js/2.4b8181cf.chunk.js.map",
     "index.html": "/sabores-do-mundo/index.html",
-    "precache-manifest.d0ca200ed1b0df37bbd6777fa6d3207d.js": "/sabores-do-mundo/precache-manifest.d0ca200ed1b0df37bbd6777fa6d3207d.js",
+    "precache-manifest.a06bdac9db65a9e6c0ff7b515d53de25.js": "/sabores-do-mundo/precache-manifest.a06bdac9db65a9e6c0ff7b515d53de25.js",
     "service-worker.js": "/sabores-do-mundo/service-worker.js",
     "static/css/2.95258f03.chunk.css.map": "/sabores-do-mundo/static/css/2.95258f03.chunk.css.map",
     "static/css/main.fdacea04.chunk.css.map": "/sabores-do-mundo/static/css/main.fdacea04.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.95258f03.chunk.css",
     "static/js/2.4b8181cf.chunk.js",
     "static/css/main.fdacea04.chunk.css",
-    "static/js/main.fa16c225.chunk.js"
+    "static/js/main.3453f511.chunk.js"
   ]
 }

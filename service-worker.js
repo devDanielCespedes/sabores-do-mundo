@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sabores-do-mundo/precache-manifest.d0ca200ed1b0df37bbd6777fa6d3207d.js"
+  "/sabores-do-mundo/precache-manifest.a06bdac9db65a9e6c0ff7b515d53de25.js"
 );
 
 self.addEventListener('message', (event) => {

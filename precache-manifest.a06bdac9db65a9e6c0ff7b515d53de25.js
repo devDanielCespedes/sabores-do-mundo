@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1aaa5c784e5c12cc5e555fa106eeb8c",
+    "revision": "c8a50d0823f76d351618e803b168c738",
     "url": "/sabores-do-mundo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sabores-do-mundo/static/css/2.95258f03.chunk.css"
   },
   {
-    "revision": "a7c992f3198ddf2c733e",
+    "revision": "8ca026fc863ea7f0a0cc",
     "url": "/sabores-do-mundo/static/css/main.fdacea04.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sabores-do-mundo/static/js/2.4b8181cf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7c992f3198ddf2c733e",
-    "url": "/sabores-do-mundo/static/js/main.fa16c225.chunk.js"
+    "revision": "8ca026fc863ea7f0a0cc",
+    "url": "/sabores-do-mundo/static/js/main.3453f511.chunk.js"
   },
   {
     "revision": "f73a2f44d0702532765a",
