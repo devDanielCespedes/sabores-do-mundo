@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/sabores-do-mundo/static/css/main.c474f288.chunk.css",
+    "main.js": "/sabores-do-mundo/static/js/main.1cdf10ce.chunk.js",
+    "main.js.map": "/sabores-do-mundo/static/js/main.1cdf10ce.chunk.js.map",
+    "runtime-main.js": "/sabores-do-mundo/static/js/runtime-main.1b8e7d83.js",
+    "runtime-main.js.map": "/sabores-do-mundo/static/js/runtime-main.1b8e7d83.js.map",
+    "static/css/2.95258f03.chunk.css": "/sabores-do-mundo/static/css/2.95258f03.chunk.css",
+    "static/js/2.099089f1.chunk.js": "/sabores-do-mundo/static/js/2.099089f1.chunk.js",
+    "static/js/2.099089f1.chunk.js.map": "/sabores-do-mundo/static/js/2.099089f1.chunk.js.map",
+    "index.html": "/sabores-do-mundo/index.html",
+    "precache-manifest.6575f7980f6bbb15d581ddd5c1118029.js": "/sabores-do-mundo/precache-manifest.6575f7980f6bbb15d581ddd5c1118029.js",
+    "service-worker.js": "/sabores-do-mundo/service-worker.js",
+    "static/css/2.95258f03.chunk.css.map": "/sabores-do-mundo/static/css/2.95258f03.chunk.css.map",
+    "static/css/main.c474f288.chunk.css.map": "/sabores-do-mundo/static/css/main.c474f288.chunk.css.map",
+    "static/js/2.099089f1.chunk.js.LICENSE.txt": "/sabores-do-mundo/static/js/2.099089f1.chunk.js.LICENSE.txt",
+    "static/media/blackHeartIcon.svg": "/sabores-do-mundo/static/media/blackHeartIcon.b8913346.svg",
+    "static/media/drinkIcon.svg": "/sabores-do-mundo/static/media/drinkIcon.f87c47c3.svg",
+    "static/media/exploreIcon.svg": "/sabores-do-mundo/static/media/exploreIcon.157945ff.svg",
+    "static/media/facebookIcon.png": "/sabores-do-mundo/static/media/facebookIcon.88a6db57.png",
+    "static/media/instagramIcon.jpg": "/sabores-do-mundo/static/media/instagramIcon.dc610311.jpg",
+    "static/media/logoDoAppEscrita.jpg": "/sabores-do-mundo/static/media/logoDoAppEscrita.260d496f.jpg",
+    "static/media/mealIcon.svg": "/sabores-do-mundo/static/media/mealIcon.b27ba19e.svg",
+    "static/media/profileIcon.svg": "/sabores-do-mundo/static/media/profileIcon.74e487e5.svg",
+    "static/media/searchIcon.svg": "/sabores-do-mundo/static/media/searchIcon.db812135.svg",
+    "static/media/shareIcon.svg": "/sabores-do-mundo/static/media/shareIcon.06215ed4.svg",
+    "static/media/whatsAppIcon.jpg": "/sabores-do-mundo/static/media/whatsAppIcon.461089b8.jpg",
+    "static/media/whiteHeartIcon.svg": "/sabores-do-mundo/static/media/whiteHeartIcon.ea3b6ba8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b8e7d83.js",
+    "static/css/2.95258f03.chunk.css",
+    "static/js/2.099089f1.chunk.js",
+    "static/css/main.c474f288.chunk.css",
+    "static/js/main.1cdf10ce.chunk.js"
+  ]
+}
